@@ -6,8 +6,8 @@ A full-stack web application for managing mess coupon distribution in college ho
 
 ## 🚀 Live Demo
 
-🔗 [Frontend (Vercel)](https://your-frontend-url.vercel.app)  
-🔗 [Backend (Render)](https://your-backend-url.onrender.com)
+🔗 [Frontend (Vercel)]()  
+🔗 [Backend (Render)]()
 
 ---
 
